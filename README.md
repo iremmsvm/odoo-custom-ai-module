@@ -17,3 +17,4 @@ to CRM customer notes.
 ### Purpose
 Designed to support digital transformation and intelligent
 decision-making within ERP systems.
+This module reflects a real-world internal digital transformation use case.
